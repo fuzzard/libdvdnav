@@ -48,6 +48,7 @@ extern "C" {
 #include <dvdnav/dvdnav_events.h>
 
 #include <stdarg.h>
+#include <stdint.h>
 
 /*********************************************************************
  * dvdnav data types                                                 *
